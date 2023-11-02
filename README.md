@@ -1,5 +1,5 @@
-[![](https://img.shields.io/badge/HTML-yellow?style=for-the-badge)]
-<br>
+[![](https://img.shields.io/badge/HTML-yellow?style=for-the-badge)]<br>
+
 $\mathcal{\color{blue}{ \ " sandbox \ for \ PayPal "}}$<br>
 <br>
 To test the payment of a shopping cart, you need a test environment. PayPal offers a sanbox for developers.
